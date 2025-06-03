@@ -1,0 +1,14 @@
+# mcp-js:
+#   filter: rjsmin
+#   output: ckanext-mcp/%(version)s-mcp.js
+#   contents:
+#     - js/mcp.js
+#   extra:
+#     preload:
+#       - base/main
+
+# mcp-css:
+#   filter: cssrewrite
+#   output: ckanext-mcp/%(version)s-mcp.css
+#   contents:
+#     - css/mcp.css
