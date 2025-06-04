@@ -5,6 +5,7 @@
 This extensions allow editor users to define which and how a resource answer potential
 questions to the public.  
 This extension is Alpha status, under development and not yet ready for production use.  
+Learning from here: https://github.com/modelcontextprotocol/python-sdk/blob/main/README.md  
 
 ![mcp dev server running](/extras/docs/images/mcp-dev-server.png)
 
