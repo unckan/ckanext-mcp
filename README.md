@@ -6,6 +6,8 @@ This extensions allow editor users to define which and how a resource answer pot
 questions to the public.  
 This extension is Alpha status, under development and not yet ready for production use.  
 
+![mcp dev server running](/extras/docs/images/mcp-dev-server.png)
+
 ## More docs
 
  - [Inspect a mcp dev server](/extras/docs/mcp-dev.md)
